@@ -1,0 +1,4 @@
+/* Hide the loader and results by default */ 
+#loading, #results {
+  display: none;
+}
